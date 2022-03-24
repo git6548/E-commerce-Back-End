@@ -20,12 +20,6 @@ Product.init(
       type: DataTypes.STRING,
       allowNull: false
     },
-    // updated by askm used to be 
-    // price: {
-    //   type: DataTypes.DECIMAL(10, 2),
-    //   allowNull: false,
-    //     isDecimal: true
-    //  }
     price: {
       type: DataTypes.DECIMAL(10, 2),
       allowNull: false,
@@ -50,8 +44,6 @@ Product.init(
     }
   },
   {
-    //updated by andrew, used to be 
-    //sequelize,
     sequelize: sequelize,
     timestamps: false,
     freezeTableName: true,
