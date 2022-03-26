@@ -1,5 +1,9 @@
 # E-commerce Back End
-## By Stephanie Anderson
+## Stephanie Anderson
+
+![screenshot](./Screenshot.jpg)
+[link to GitHub](https://github.com/git6548/E-commerce-Back-End)
+[link to video](https://drive.google.com/file/d/1loISHo7BPV0yjabDEGjhuShPAdAlk1MX/view)
 ### User Story
 AS A manager at an internet retail company
 I WANT a back end for my e-commerce website that uses the latest technologies
