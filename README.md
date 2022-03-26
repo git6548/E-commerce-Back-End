@@ -3,7 +3,8 @@
 
 ![screenshot](./Screenshot.jpg)
 [link to GitHub](https://github.com/git6548/E-commerce-Back-End)
-[link to video](https://drive.google.com/file/d/1loISHo7BPV0yjabDEGjhuShPAdAlk1MX/view)
+
+[link to video](https://drive.google.com/file/d/1jVJauyfncu8S-btr7cH_xZzSH8mwqRN3/view)
 ### User Story
 AS A manager at an internet retail company
 I WANT a back end for my e-commerce website that uses the latest technologies
